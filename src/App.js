@@ -13,7 +13,7 @@ export function App() {
 
     <>    
     <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="./" element={<HomePage />} />
         <Route path="coin/:id" element={<CoinPage />} />
       </Routes>
     </>
