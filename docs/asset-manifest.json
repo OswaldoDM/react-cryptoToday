@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-cryptoToday/static/css/main.a0186de2.css",
-    "main.js": "/react-cryptoToday/static/js/main.78d00053.js",
+    "main.css": "/react-cryptoToday/static/css/main.fee8bcdc.css",
+    "main.js": "/react-cryptoToday/static/js/main.59e91e95.js",
     "static/media/image.jpg": "/react-cryptoToday/static/media/image.2a08f47ce0a56c6293fa.jpg",
     "index.html": "/react-cryptoToday/index.html",
-    "main.a0186de2.css.map": "/react-cryptoToday/static/css/main.a0186de2.css.map",
-    "main.78d00053.js.map": "/react-cryptoToday/static/js/main.78d00053.js.map"
+    "main.fee8bcdc.css.map": "/react-cryptoToday/static/css/main.fee8bcdc.css.map",
+    "main.59e91e95.js.map": "/react-cryptoToday/static/js/main.59e91e95.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0186de2.css",
-    "static/js/main.78d00053.js"
+    "static/css/main.fee8bcdc.css",
+    "static/js/main.59e91e95.js"
   ]
 }

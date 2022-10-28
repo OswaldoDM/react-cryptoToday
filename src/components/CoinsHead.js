@@ -44,49 +44,49 @@ return(
     <div className = "-mx-10 sm:-mx-8 px-8 sm:px-8 py-4 overflow-hidden  ">
         <div className = "inline-block min-w-full shadow rounded-lg overflow-hidden">
 
-            <table className = "min-w-full leading-normal border-2 border-gray-300">
+            <table className = "min-w-full leading-normal border-2 border-gray-200">
                 <thead>
                      <tr>                      
 
                         <th
                             className = 
-                            "px-10 py-3 sm:px-5 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider" >
+                            "px-10 py-3 sm:px-5 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider" >
                             Name
                         </th>
 
                         <th
                             className = 
-                            "px-5 py-3 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider">
+                            "px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider">
                             24h
                         </th>
 
                         <th
                             className = 
-                            "px-5 py-3 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider">
+                            "px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider">
                             Price
                         </th>
 
                         <th
                             className = 
-                            "px-5 py-3  border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
+                            "px-5 py-3  border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
                             Circulating Supply
                         </th>
 
                         <th
                             className = 
-                            "px-5 py-3 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
+                            "px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
                             ATH
                         </th>
 
                         <th
                             className = 
-                            "px-5 py-3 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
+                            "px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider hide">
                             ATH%
                         </th>
                                 
                         <th
                             className = 
-                            " px-5 py-3 border-b-2 border-gray-300 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider  hide-mc">
+                            " px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-bold text-gray-800 uppercase tracking-wider  hide-mc">
                             Market Cap
                         </th>
                     </tr>
